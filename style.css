@@ -1,0 +1,53 @@
+body{
+    background-color:white;
+}   
+.card{
+    width: 300px;
+    height: 200px;
+    margin:auto;
+    text-align: center;
+    font-family: sans-serif;
+}
+.title{
+    color: black;
+    font-size: 14px;
+}
+.a{
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+}
+button:hover,a:hover{
+    
+}
+
+
+.fa{
+    padding:20px;
+    font-size:30px;
+    width:20px;
+    text-align:center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius:50%;
+}
+.fa:hover{
+    opacity:0.7;
+
+}
+.fa-facebook{
+    background: #0920eb;
+    color: aliceblue;
+}.fa-instagram{
+    background: #eb098d;
+    color: aliceblue;
+}
+.fa-linkedin{
+    background:#0942eb;
+    color: aliceblue;
+}
+.fa-twitter{
+    background:#0942eb;
+    color: aliceblue;
+}
+
